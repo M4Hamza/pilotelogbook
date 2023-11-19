@@ -1,0 +1,11 @@
+DESCRIPTION
+
+TOOL: PHP, Oracle DMBS, SMTP, and VPS
+
+DESCRIPTION: A Professional Web Application designed for Aircraft Pilots to record and maintain their every flight journey hour and location they flew to.
+
+Pilot eLogbook is a cloud project designed to serve as an online logbook service for aviation pilots. It helps the Pilots to log their flight information, including arrival, departure, date, time, destination, and more. Our cloud server will keep their data safe and secure from online threats and attacks. The AWS cloud server services will use highly skilled programming techniques to make this server system a secure place for data and its use. An application service will be available for all types of platforms. So, everyone (pilots) can access and use it anywhere at any time.
+
+This system feels like a spreadsheet but serves as an online application like myflightbook or flying. However, this application allows pilots and companies to log flights in addition to these existing services. The cloud server will allocate database access to them to log their flight information. Company pilots can access the service by paying an instructor(admin) and the second as a student. In contrast, individual pilots can access server services by themselves and, free of cost, insert, update, delete, and check their logs.
+
+Web Application (using Php, MySQL, Apache, and others)
